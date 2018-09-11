@@ -1,0 +1,14 @@
+geopandas==0.3.0
+numpy==1.14.0
+pandas==0.22.0
+pyodbc==4.0.24
+python-dateutil==2.6.1
+python-json-logger==0.1.8
+rtree==0.8.3
+shapely==1.6.4
+six==1.11.0
+structlog==18.1.0
+toolz==0.9.0
+
+pytest==3.4.0
+pytest-mock==1.7.0
